@@ -1,3 +1,4 @@
+![logo](https://github.com/Kush0624/Kush0624/blob/main/logo.gif)
 <h1 align="center">Hi 👋, I'm Kushagra Goyal</h1>
 <h3 align="center">A passionate Software/Web developer from India</h3>
 <img align="right" width=400 src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
