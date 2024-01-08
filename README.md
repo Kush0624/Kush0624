@@ -15,11 +15,12 @@
 
 - 📫 How to reach me **kushagragoyal13@gmail.com**
 
-- 📄 Know about my experiences [https://kush0624.github.io/KushagraGoyalPortfolio/document/Kushagra%20Goyal%20Resume.pdf](https://kush0624.github.io/KushagraGoyalPortfolio/document/Kushagra%20Goyal%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://kush0624.github.io/KushagraGoyalPortfolio/document/Kushagra%20Goyal%20Resume.pdf)
 
 - ⚡ Fun fact **I'm a good entertainer.**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" width=40 src="[https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif)">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kushagra-goyal-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushagra-goyal-/" height="30" width="40" /></a>
 </p>
